@@ -9,10 +9,10 @@
 
 <channel>
 	<title>My WordPress</title>
-	<atom:link href="https://minhnhanlam.github.io/wordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhnhanlam.github.io/wordpress</link>
+	<atom:link href="http://minhnhanlam.github.io/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>http://minhnhanlam.github.io/wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 19 Oct 2022 09:45:41 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Oct 2022 18:28:03 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,114 +20,60 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Top 5 phụ kiện phượt thịnh hành nhất</title>
-		<link>https://minhnhanlam.github.io/wordpress/phu-kien-phuot/</link>
-					<comments>https://minhnhanlam.github.io/wordpress/phu-kien-phuot/#respond</comments>
+		<title>lamminhnhan</title>
+		<link>http://minhnhanlam.github.io/wordpress/2022/10/29/lamminhnhan/</link>
+					<comments>http://minhnhanlam.github.io/wordpress/2022/10/29/lamminhnhan/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
-		<pubDate>Wed, 19 Oct 2022 08:31:27 +0000</pubDate>
+		<pubDate>Sat, 29 Oct 2022 18:28:01 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress/?p=204</guid>
+		<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress/?p=329</guid>
 
-					<description><![CDATA[phụ kiện phượt re nhat]]></description>
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/2022/10/29/lamminhnhan/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>http://minhnhanlam.github.io/wordpress/2022/10/24/chao-moi-nguoi/</link>
+					<comments>http://minhnhanlam.github.io/wordpress/2022/10/24/chao-moi-nguoi/#comments</comments>
+		
+		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
+		<pubDate>Mon, 24 Oct 2022 04:26:28 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
-<h2><strong>1/phu kien phuot</strong></h2>
-
-
-
-<p>Nói một cách đơn giản Phượt là một hình thức du lịch bụi.Là những chuyến đi, những cuộc hành trình đầy bụi bặm không có lịch trình không có kế hoạch cụ thể, <strong>phu kien phuot </strong>dẫn đường, cũng chẳng có bất kỳ dịch vụ rườm rà nào, chỉ là đi bằng sự tò mò, niềm đam mê khám phá.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img width="768" height="768" src="https://minhnhanlam.github.io/wordpress/wp-content/uploads/2022/10/phu-kien-phuot1.jpg" alt="phu kien phuot" class="wp-image-205"/></figure></div>
-
-
-<p>Anh em trong <strong><em>Chơi đêm Hà Nội mùa dịch</em></strong> nhóm thường nói đùa với nhau đi phượt cũng như đi bụi vậy, tự do về trang phục, không cầu kỳ về phương tiện, chỉ cần bộ đồ phượt cũ kỹ, chiếc xe máy hay đi hàng ngày, vai đeo chiếc balo bên trong là vài vật dụng cần thiết kèm theo một chiếc máy ảnh, chỉ cần có vậy là có thể có cuộc hành trình để đời. <strong>phu kien phuot</strong> là đi phượt, hiểu theo nghĩa đen thì sẽ là&nbsp;bụi từ phương tiện, quần áo cho đến ăn uống ngủ nghỉ. Sơn hào hải vị, chăn ấm đệm em chắc chắn không nằm trong khái niệm của những người yêu phượt, đối với dân phươt giấc ngủ rất đơn giản, đôi khi dựng tạm một cái trại, đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng  đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời </p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="1920" height="1000" src="https://minhnhanlam.github.io/wordpress/wp-content/uploads/2022/10/phu-kien-phuot2.jpg" alt="phu kien phuot" class="wp-image-206"/></figure></div>
-
-
-<p>Nói về du lịch thì chỉ có đi tận nơi, nhìn tận mắt mới có thể cảm nhận được hết vẻ đẹp của thiên nhiên đất trời. Đối với những tín đồ “xê dịch”, luôn muốn khám phá, trải nghiệm những vùng đất mới, gặp gỡ những con người mới,… thì du lịch phượt bụi là hình thức du lịch vô cùng thích hợp. Vậy đi phượt là gì? Hãy cùng khám phá&nbsp;các&nbsp;cung đường phượt đẹp nhất Việt Nam&nbsp;mà các phượt thủ không nên bỏ lỡ trong chuyến hành trình của mình nhé!</p>
-
-
-
-<p>Đi phượt hay còn gọi là du lịch “bụi”, du lịch ba lô, loại hình du lịch này được giới trẻ rất ưa chuộng. Người đi phượt được gọi là các&nbsp;<em>phượt thủ</em>, họ sẽ đi những chuyến đi tự túc,<strong><em>Phượt đêm Hà Nội bằng xe máy</em></strong> có hoặc không có một lịch trình nhất định (lịch trình có thể thay đổi theo ý muốn trong lúc đi).&nbsp;</p>
-
-
-
-<p>Đi phượt – du lịch phượt mang cảm giác gần gũi, mộc mạc, bình dị, bụi bặm, khác với những chuyến du lịch sang chảnh, ở khách sạn hay resort, vui chơi ở những trung tâm giải trí nhân tạo. Phượt bụi có xu hướng gần gũi với thiên nhiên hoang dã, khám phá cuộc sống người dân bản địa, hòa mình vào văn hóa địa phương, nói cách khác, đi phượt là đi du lịch một cách tối giản nhất.</p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="1920" height="1282" src="https://minhnhanlam.github.io/wordpress/wp-content/uploads/2022/10/phu-kien-phuot3.jpg" alt="phu kien phuot" class="wp-image-207"/></figure></div>
-
-
-<p>Khi đi phượt, họ thường sẽ di chuyển bằng<em>&nbsp;xe <strong>phu kien phuot</strong></em> đạp, xe máy, hay bất kể phương tiện nào khác để đi tới những vùng đất mới, những địa danh kỳ thú,… Cũng có nhiều người chọn cách đi bộ để rèn luyện bản thân. Nhưng đa số nhắc đến đi phượt là đi bằng xe máy côn, hoặc xe số, không nên đi bằng xe ga.<a href="https://vov.vn/du-lich/10-dieu-can-ghi-nho-truoc-khi-di-phuot-bang-xe-may-833036.vov" data-type="URL" data-id="https://vov.vn/du-lich/10-dieu-can-ghi-nho-truoc-khi-di-phuot-bang-xe-may-833036.vov" target="_blank" rel="noopener">https://vov.vn/du-lich/10-dieu-can-ghi-nho-truoc-khi-di-phuot-bang-xe-may-833036.vov</a></p>
-
-
-
-<p>Đồ ăn thức uống thay <strong>Hà Nội về đêm buồn</strong> vì trong khách sạn, ăn những món ăn đắt tiền thì đồ ăn của các phượt thủ thường là những món ăn của người dân địa phương nơi đi phượt, hoặc chuẩn bị sẵn như một chuyến đi dã ngoại, cắm trại…</p>
-
-
-
-<p>Nhắc đến phượt, người ta thường liên tưởng đến những chuyến đi xa xôi đầy sương gió. Hay nghĩ về những đội quân hùng hậu: áo cờ đỏ sao vàng, quấn những chiếc khăn rằn ri và đeo những chiếc dây phản quan rực rỡ. Hoặc một ” phiên bản ” mặc định kiểu mũ 3/4 và những quả ốp bảo vệ chân tay, cờ bay phấp phới sau mông.</p>
-
-
-
-<p></p>
-
-
-
-<p></p>
-
-
-
-<p>Với thiết kế ngồi hướng về phía trước ôm bình xăng, tay lái nặng không <strong>phu kien phuot</strong> việc di chuyển trên cung đường dài, địa hình khó là cực hình cho cái lưng và đôi tay của bạn. Vì thế hãy cân nhắc thật kỹ trước khi vác một em Sport bike đi phượt nhé.</p>
-
-
-
-<p>Phượt là từ lóng của từ “lượt – phượt” .Chưa có một khái niệm <strong><em>Lang thang Hà Nội về đêm</em></strong> hay định nghĩa nào về từ Phượt. Nhưng có thể hiểu một cách đơn giản nhất thì Phượt là một hình thức du lịch bụi.<a href="https://minhnhanlam.github.io/wordpress/cua-hang/" target="_blank" data-type="URL" data-id="https://minhnhanlam.github.io/wordpress/cua-hang/" rel="noreferrer noopener">https://minhnhanlam.github.io/wordpress/cua-hang/</a></p>
-
-
-
-<div class="wp-container-3 wp-block-group"><div class="wp-block-group__inner-container">
-<div class="wp-container-2 wp-block-columns">
-<div class="wp-container-1 wp-block-column"></div>
-</div>
-</div></div>
-
-
-
-<p></p>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="768" height="768" src="https://minhnhanlam.github.io/wordpress/wp-content/uploads/2022/10/phu-kien-phuot4.jpg" alt="phu kien phuot" class="wp-image-208"/></figure></div>
-
-
-<p></p>
-
-
-
-<p>Với việc tự mình điều khiển phương tiện, bạn có thể đi đến bất kỳ đâu mà mình muốn. Không cần thiết phải lên những lịch trình cụ thể cho chuyến đi, <strong>phu kien phuot</strong> máy,&nbsp; đi rồi đến và mệt thì dừng. Đến những cảnh đẹp dừng lại thưởng thức, chụp hình, vui đùa,..</p>
-
-
-
-<p>Hành trang mang theo của những người đi phượt cũng đơn giản chỉ là những <strong><em>ngủ qua đêm ở Hà Nội</em></strong> chiếc balo với vài bộ đồ, vật dụng cá nhân, không cần phải quá nhiều, mang một ít tiền rồi lên xe đến nơi</p>
-
-
-
-<div style="width:480px"><iframe loading="lazy" allow="fullscreen" frameborder="0" height="480" src="https://giphy.com/embed/NEDv1nO7vQmBGfY1hJ/video" width="480"></iframe></div>
-
-
-
-<p>Anh em trong <strong><em>Chơi đêm Hà Nội mùa dịch</em></strong> nhóm thường nói đùa với nhau đi phượt cũng như đi bụi vậy, tự do về trang phục, không cầu kỳ về phương tiện, chỉ cần bộ đồ phượt cũ kỹ, chiếc xe máy hay đi hàng ngày, vai đeo chiếc balo bên trong là vài vật dụng cần thiết kèm theo một chiếc máy ảnh, chỉ cần có vậy là có thể có cuộc hành trình để đời. <strong>phu kien phuot</strong> là đi phượt, hiểu theo nghĩa đen thì sẽ là&nbsp;bụi từ phương tiện, quần áo cho đến ăn uống ngủ nghỉ. Sơn hào hải vị, chăn ấm đệm em chắc chắn không nằm trong khái niệm của những người yêu phượt, đối với dân phươt giấc ngủ rất đơn giản, đôi khi dựng tạm một cái trại, đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng  đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời Anh em trong <strong><em> mùa dịch</em></strong> nhóm thường nói đùa với nhau đi phượt cũng như đi bụi vậy, tự do về trang phục, không cầu kỳ về phương tiện, chỉ cần bộ đồ phượt cũ kỹ, chiếc xe máy hay đi hàng ngày, vai đeo chiếc balo bên trong là vài vật dụng cần thiết kèm theo một chiếc máy ảnh, chỉ cần có vậy là có thể có cuộc hành trình để đời. <strong>phu kien phuot</strong> là đi phượt, hiểu theo nghĩa đen thì sẽ là&nbsp;bụi từ phương tiện, quần áo cho đến ăn uống ngủ nghỉ. Sơn hào hải vị, chăn ấm đệm em chắc chắn không nằm trong khái niệm của những người yêu phượt, đối với dân phươt giấc ngủ rất đơn giản, đôi khi dựng tạm một cái trại, đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng  đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời Anh em trong  nhóm thường nói đùa với nhau đi phượt cũng như đi bụi vậy, tự do về trang phục, không cầu kỳ về phương tiện, chỉ cần bộ đồ phượt cũ kỹ, chiếc xe máy hay đi hàng ngày, vai đeo chiếc balo bên trong là vài vật dụng cần thiết kèm theo một chiếc máy ảnh, chỉ cần có vậy là có thể có cuộc hành trình để đời.là đi phượt, hiểu theo nghĩa đen thì sẽ là&nbsp;bụi từ phương tiện, quần áo cho đến ăn uống ngủ nghỉ. Sơn hào hải vị, chăn ấm đệm em chắc chắn không nằm trong khái niệm của những người yêu phượt, đối với dân phươt giấc ngủ rất đơn giản, đôi khi dựng tạm một cái trại, đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng  đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời bên đống lửa cháy bập bùng đôi khi là phơi sương giữa trời </p>
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/phu-kien-phuot/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
+					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/2022/10/24/chao-moi-nguoi/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chào tất cả mọi người!</title>
+		<link>http://minhnhanlam.github.io/wordpress/2022/09/28/chao-moi-nguoi-2/</link>
+					<comments>http://minhnhanlam.github.io/wordpress/2022/09/28/chao-moi-nguoi-2/#comments</comments>
+		
+		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
+		<pubDate>Wed, 28 Sep 2022 07:23:40 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?p=1</guid>
+
+					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
+										<content:encoded><![CDATA[
+<p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/2022/09/28/chao-moi-nguoi-2/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
 		
 		
 			</item>
