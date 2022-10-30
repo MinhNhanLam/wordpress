@@ -14090,7 +14090,7 @@ WIDGET PRODUCTS
   .cart-collaterals
   .cart_totals::after {
   content: "";
-  background-image: url("http://minhnhanlam.github.io/wordpress/wp-content/themes/blossom-shop/images/decoration.png");
+  background-image: url("https://minhnhanlam.github.io/wordpress/wp-content/themes/blossom-shop/images/decoration.png");
   position: absolute;
   top: -10px;
   left: 0;
@@ -14540,7 +14540,7 @@ WIDGET PRODUCTS
   .woocommerce-checkout
   #order_review_heading::before {
   content: "";
-  background-image: url("http://minhnhanlam.github.io/wordpress/wp-content/themes/blossom-shop/images/decoration.png");
+  background-image: url("https://minhnhanlam.github.io/wordpress/wp-content/themes/blossom-shop/images/decoration.png");
   width: 100%;
   height: 20px;
   position: absolute;
@@ -14575,7 +14575,7 @@ WIDGET PRODUCTS
   .woocommerce-checkout
   .woocommerce-checkout-review-order::after {
   content: "";
-  background-image: url("http://minhnhanlam.github.io/wordpress/wp-content/themes/blossom-shop/images/decoration.png");
+  background-image: url("https://minhnhanlam.github.io/wordpress/wp-content/themes/blossom-shop/images/decoration.png");
   width: 100%;
   height: 20px;
   position: absolute;

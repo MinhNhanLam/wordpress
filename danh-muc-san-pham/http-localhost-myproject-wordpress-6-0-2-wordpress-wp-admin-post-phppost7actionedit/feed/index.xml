@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Cửa hàng &#8211; My WordPress</title>
-	<atom:link href="http://minhnhanlam.github.io/wordpress/danh-muc-san-pham/http-localhost-myproject-wordpress-6-0-2-wordpress-wp-admin-post-phppost7actionedit/feed/" rel="self" type="application/rss+xml" />
-	<link>http://minhnhanlam.github.io/wordpress</link>
+	<atom:link href="https://minhnhanlam.github.io/wordpress/danh-muc-san-pham/http-localhost-myproject-wordpress-6-0-2-wordpress-wp-admin-post-phppost7actionedit/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhnhanlam.github.io/wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Wed, 05 Oct 2022 09:19:41 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Camp Cook Set</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/camp-cook-set/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/camp-cook-set/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/camp-cook-set/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/camp-cook-set/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Wed, 05 Oct 2022 09:19:41 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=34</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=34</guid>
 
 					<description><![CDATA[<div class="woocommerce-product-details__short-description">
 
@@ -123,7 +123,7 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/camp-cook-set/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/camp-cook-set/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

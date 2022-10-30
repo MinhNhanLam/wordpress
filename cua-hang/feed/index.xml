@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Sản phẩm &#8211; My WordPress</title>
-	<atom:link href="http://minhnhanlam.github.io/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
-	<link>http://minhnhanlam.github.io/wordpress</link>
+	<atom:link href="https://minhnhanlam.github.io/wordpress/cua-hang/feed/" rel="self" type="application/rss+xml" />
+	<link>https://minhnhanlam.github.io/wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
 	<lastBuildDate>Thu, 06 Oct 2022 09:41:58 +0000</lastBuildDate>
 	<language>vi</language>
@@ -21,12 +21,12 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Trekking Jacket</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/trekking-jacket/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/trekking-jacket/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/trekking-jacket/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/trekking-jacket/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:41:58 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=74</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=74</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -119,19 +119,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/trekking-jacket/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/trekking-jacket/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Trekking Helmet</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/trekking-helmet/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/trekking-helmet/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/trekking-helmet/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/trekking-helmet/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:39:14 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=72</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=72</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -224,19 +224,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/trekking-helmet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/trekking-helmet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Trekking Hat</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/trekking-hat/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/trekking-hat/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/trekking-hat/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/trekking-hat/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:36:54 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=71</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=71</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -329,19 +329,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/trekking-hat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/trekking-hat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rucksack</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/rucksack/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/rucksack/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/rucksack/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/rucksack/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:29:51 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=68</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=68</guid>
 
 					<description><![CDATA[Magna fringilla urna porttitor rhoncus dolor. Faucibus vitae aliquet nec ullamcorper sit. Feugiat in fermentum posuere urna nec tincidunt praesent semper. Magna eget est lorem ipsum. Eros donec ac odio tempor orci dapibus. Pulvinar elementum integer enim neque volutpat.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -434,19 +434,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/rucksack/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/rucksack/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LED Torch</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/led-torch/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/led-torch/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/led-torch/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/led-torch/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:26:27 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=67</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=67</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -539,19 +539,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/led-torch/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/led-torch/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>LED Head Torch</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/led-head-torch/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/led-head-torch/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/led-head-torch/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/led-head-torch/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:21:07 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=66</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=66</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -644,19 +644,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/led-head-torch/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/led-head-torch/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Clip Hook</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/clip-hook/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/clip-hook/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/clip-hook/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/clip-hook/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:16:23 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=63</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=63</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -749,19 +749,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/clip-hook/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/clip-hook/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Camping Stove</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/camping-stove/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/camping-stove/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/camping-stove/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/camping-stove/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:09:28 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=61</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=61</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -854,19 +854,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/camping-stove/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/camping-stove/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Camping Compass</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/camping-compass/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/camping-compass/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/camping-compass/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/camping-compass/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 09:01:40 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=58</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=58</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -959,19 +959,19 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/camping-compass/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/camping-compass/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Camping Bag</title>
-		<link>http://minhnhanlam.github.io/wordpress/san-pham/camping-bag/</link>
-					<comments>http://minhnhanlam.github.io/wordpress/san-pham/camping-bag/#respond</comments>
+		<link>https://minhnhanlam.github.io/wordpress/san-pham/camping-bag/</link>
+					<comments>https://minhnhanlam.github.io/wordpress/san-pham/camping-bag/#respond</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
 		<pubDate>Thu, 06 Oct 2022 08:56:53 +0000</pubDate>
-				<guid isPermaLink="false">http://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=56</guid>
+				<guid isPermaLink="false">https://minhnhanlam.github.io/wordpress-6.0.2/wordpress/?post_type=product&#038;p=56</guid>
 
 					<description><![CDATA[Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.Ut dolor condimentum hendrerit non mattis a commodo sociis mi nec rutrum parturient litora.]]></description>
 										<content:encoded><![CDATA[<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-17b78071" data-id="17b78071" data-element_type="column">
@@ -1064,7 +1064,7 @@ Model is wearing: Size Large</div>
 </div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://minhnhanlam.github.io/wordpress/san-pham/camping-bag/feed/</wfw:commentRss>
+					<wfw:commentRss>https://minhnhanlam.github.io/wordpress/san-pham/camping-bag/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
